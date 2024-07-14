@@ -22,7 +22,7 @@ It is API-based approach to add and manage the configurations instead of built-i
 
 The main flow of the solution is captured below.
 
-<image src="https://raw.githubusercontent.com/abarrak/why-compiled-languages/main/docs/Alerts-Operator-Architecture.png" width="80%" />
+<image src="https://raw.githubusercontent.com/abarrak/grafana-alerts-operator/main/docs/Alerts-Operator-Architecture.png" width="50%" />
 
 
 ## Features
